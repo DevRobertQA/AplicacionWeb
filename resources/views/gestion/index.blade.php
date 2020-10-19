@@ -50,7 +50,7 @@
 					<th>Utilidad</th>
 				</thead>
 				<tr>
-					<td>11/10/20</td>
+					<td>15/10/20</td>
 					<td>2500.00</td>
 					<td>2000.00</td>
 					<td>500.00</td>
