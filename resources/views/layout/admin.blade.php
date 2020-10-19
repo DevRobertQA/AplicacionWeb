@@ -85,7 +85,7 @@
             <li class="treeview">
               <a href="#">
                 <i class="fa fa-laptop"></i>
-                <span>Formulario</span>
+                <span>FORMULARIO</span>
                 <i class="fa fa-angle-left pull-right"></i>
               </a>
             </li>
@@ -93,7 +93,7 @@
             <li class="treeview">
               <a href="#">
                 <i class="fa fa-th"></i>
-                <span>Perfil</span>
+                <span>PERFIL</span>
                  <i class="fa fa-angle-left pull-right"></i>
               </a>
             </li>
