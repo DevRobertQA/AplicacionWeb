@@ -3,7 +3,7 @@
 <div class="row">
 
 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-	<h3>FORMULARIO DE REGISTRO</h3>
+	<h3>Formulario de registro</h3>
 </div>
 <div class="row">
 	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -36,7 +36,7 @@
 
 <hr>
 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-	<h3>LISTADO DE REGISTROS</h3>
+	<h3>Listado de Registros</h3>
 </div>
 </div>
 <div class="row">
