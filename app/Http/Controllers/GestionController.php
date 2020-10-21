@@ -31,13 +31,12 @@ class GestionController extends Controller
     }
     public function store(GestionFormResquest $request)
     {
+        $date = new DateTime();
         $gestion = new Gestion();
-    	$gestion->fecha=$request->get('fecha');
-    	$gestion->montoIngreso=$request->get('montoIngreso');
-        $gestion->montoEgreso=$request->get('montoEgreso');
-        $gestion->Utilidad=$request->get('Utilidad');
-        $gestion->idUsuario=$request->get('idUsuario');
-    	$gestion->save();
+    	$gestion->fecha=$date->format('yy-mm-dd');
+    	$gestion->montoIngreso=$request->get('ingreso');
+        $gestion->montoEgreso=$request->get('egreso');
+        $gestion->idUsuario='1';
     	return Redirect::to('gestion');
 
     }
